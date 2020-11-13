@@ -5,6 +5,7 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
 - 🔭 I’m currently working on Deep Learning for Neuro-Physiology Signals.
 - ⚡ Fun fact: I have started writing some technical blogs recently which you can find [here](https://adnanmushtaq5.medium.com/).
 - 📫 You can reach me [here](https://www.linkedin.com/in/adnan-karol-aa1666179/) with LinkedIn.
+- 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
 
 Feel Free to contact me for any Colloborations 👯 of any other doubts 💬.
 
