@@ -1,8 +1,8 @@
-## Hey there 👋 !!
+# Hey there 👋 !!
 My Name is Adnan, and I am a Masters's student at the University of Stuttgart (Infotech - Computer Science and Electrical Engineering) with a specialization in Embedded System and Deep Learning.
 
 
-### Reach Out to Me
+## Reach Out to Me
 <p>
   
 
@@ -18,7 +18,7 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
   
 </p>
 
-### 💻 Preferred Operating Systems<br/><br/>
+## 💻 Preferred Operating Systems<br/><br/>
 <p >
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -26,7 +26,7 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
 </p>
 
 
-    
+## About Me  
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
 
 - 🔭 I’m currently working on Deep Learning for Neuro-Physiology Signals.
@@ -34,7 +34,7 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
 - 📫 You can reach me [here](https://www.linkedin.com/in/adnan-karol-aa1666179/) with LinkedIn.
 - 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
 
- ### 💻 Langauges I love Coding in<br/><br/>
+ ## 💻 Langauges & Tools I love Coding in<br/><br/>
 <p align='center'>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
