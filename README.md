@@ -4,17 +4,18 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
 
 <p align='center'>
   
-  <!--<a href="http://adnan-karol.mystrikingly.com/">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
   <a href="https://www.linkedin.com/in/adnan-karol-aa1666179/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="http://adnan-karol.mystrikingly.com/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  <a href="https://github.com/adnanmushtaq1996">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://medium.com/@adnanmushtaq5">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
 </p>
+
     
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
 
