@@ -18,7 +18,7 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
 </p>
 
 💻 Preferred Operating Systems<br/><br/>
-<p align='center'>
+<p >
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
