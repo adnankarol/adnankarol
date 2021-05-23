@@ -17,6 +17,14 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
   
 </p>
 
+<p align='center'>
+  💻 Preferred Operating Systems<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+</p>
+
+
     
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
 
@@ -24,6 +32,23 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
 - ⚡ Fun fact: I have started writing some technical blogs recently which you can find [here](https://adnanmushtaq5.medium.com/).
 - 📫 You can reach me [here](https://www.linkedin.com/in/adnan-karol-aa1666179/) with LinkedIn.
 - 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
+
+
+<p align='center'>
+  💻 Langauges I love Coding in<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+
+</p>
 
 Feel Free to contact me for any Colloborations 👯 of any other doubts 💬.
 
