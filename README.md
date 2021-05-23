@@ -17,7 +17,7 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
   </a>&nbsp;&nbsp;
   
 </p>
-<br/><br/>
+
 
 ## 💻 Preferred Operating Systems
 <p >
@@ -26,7 +26,7 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
 
 </p>
 
-<br/><br/>
+
 
 ## About Me  
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
@@ -36,9 +36,8 @@ I am actively seeking new opportunities in the domain of Machine Learning, Deep 
 - 📫 You can reach me [here](https://www.linkedin.com/in/adnan-karol-aa1666179/) with LinkedIn.
 - 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
 
-<br/><br/>
 
- ## 💻 Langauges & Tools I love Coding in !
+ ## 💻 Langauges & Tools I love Coding In !
 <p align='center'>
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
