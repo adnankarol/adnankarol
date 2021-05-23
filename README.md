@@ -1,10 +1,7 @@
 ### Hi there 👋
 My Name is Adnan, and I am a Masters's student at the University of Stuttgart (Infotech - Computer Science and Electrical Engineering) with a specialization in Embedded System and Deep Learning.
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/adnan-karol-aa1666179/"
+![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
     
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
 
