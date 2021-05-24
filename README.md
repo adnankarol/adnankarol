@@ -26,7 +26,7 @@ My Name is Adnan, and I am a Masters's student at the University of Stuttgart (I
 
 </p>
 
-# 💻 My Workspace Specifications
+### 💻 My Workspace Specifications
 <p >
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i5--8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
