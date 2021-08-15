@@ -1,5 +1,5 @@
 # Hey there 👋 !!
-My Name is Adnan, and I am a Masters's student at the University of Stuttgart (Infotech - Computer Science and Electrical Engineering) with a specialization in Embedded System and Deep Learning.
+My Name is Adnan, and I am working as a Full-Stack Data Scientist. I have completed my Masters degree from the University of Stuttgart (Infotech - Computer Science and Electrical Engineering) with a specialization in Embedded System and Deep Learning.
 
 
 ## Reach Out to Me
