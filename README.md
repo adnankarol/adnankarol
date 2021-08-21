@@ -41,7 +41,8 @@ My Name is Adnan, and I am working as a Full-Stack Data Scientist. I have comple
 ## About Me  
 I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
 
-- 🔭 I’m currently working on Deep Learning for Neuro-Physiology Signals.
+- 😄 I love to perform EDA of data and get value from data, using modern ML, DL techniques.
+- 🔭 I have recently worked on using Deep Learning to analyse Neuro-Physiology Signals such as EEG, ECG, etc.
 - ⚡ Fun fact: I have started writing some technical blogs recently which you can find [here](https://adnanmushtaq5.medium.com/).
 - 📫 You can reach me [here](https://www.linkedin.com/in/adnan-karol-aa1666179/) with LinkedIn.
 - 🌱 Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
