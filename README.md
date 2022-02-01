@@ -39,7 +39,7 @@ My Name is Adnan, and I am working as a Full-Stack Data Scientist. I have comple
 
 
 ## About Me  
-I am actively seeking new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
+I am looking for new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
 
 - 😄 I love to perform EDA of data and get value from data, using modern ML, DL techniques.
 - 🔭 I have recently worked on using Deep Learning to analyse Neuro-Physiology Signals such as EEG, ECG, etc.
