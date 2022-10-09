@@ -22,7 +22,7 @@ My Name is Adnan, and I am working as a Full-Stack Data Scientist. I have comple
 ## 💻 Preferred Operating Systems
 <p >
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/-999999?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white" />
 
 </p>
 
