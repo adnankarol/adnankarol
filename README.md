@@ -2,20 +2,10 @@
 My Name is Adnan, and I am working as a Full-Stack Data Scientist. I have completed my Masters degree from the University of Stuttgart in Information Technology.
 
 
-## Reach Out to Me
-<p>
-  
-
-  <a href=“https://github.com/adnanmushtaq1996”>
-    <img src=“https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white” />        
-  </a>&nbsp;&nbsp;
-    <a href=“https://www.linkedin.com/in/adnan-karol-aa1666179/”>
-    <img src=“https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white” />
-  </a>&nbsp;&nbsp;
-    <a href=“https://medium.com/@adnanmushtaq5”>
-    <img src=“https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white” />        
-  </a>&nbsp;&nbsp;
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/adnan-karol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-karol" height="30" width="40" /></a>
+<a href="https://medium.com/@adnankarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adnankarol" height="30" width="40" /></a>
 </p>
 
 
