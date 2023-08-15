@@ -1,30 +1,92 @@
-<h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">I am working as a Full-Stack Data Scientist. I have completed my Masters degree from the University of Stuttgart (Information Technology - Computer Science and Electrical Engineering) with a specialization in Embedded System and Deep Learning.</h3>
+# Hey there :wave: !!
+My Name is Adnan, and I am working as a Full-Stack Data Scientist. I have completed my Masters degree from the University of Stuttgart (Information Technology - Computer Science and Electrical Engineering) with a specialization in Embedded System and Deep Learning.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnankarol&label=Profile%20views&color=0e75b6&style=flat" alt="adnankarol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnankarol" alt="adnankarol" /></a> </p>
+## Reach Out to Me
+<p>
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/adnankarol](https://github.com/adnankarol)
-
-- 📝 I regularly write articles on [https://adnanmushtaq5.medium.com/](https://adnanmushtaq5.medium.com/)
-
-- 💬 Ask me about **Machine Learning, Deep Learning, AWS Cloud & Data Science in General**
-
-- 📫 How to reach me **https://www.linkedin.com/in/adnan-karol-aa1666179/**
-
-- 📄 Know about my experiences [https://adnan-karol.mystrikingly.com/](https://adnan-karol.mystrikingly.com/)
-
-- ⚡ Fun fact **I love to travel and I am frequently visiting new cities in Europe**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adnan-karol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-karol" height="30" width="40" /></a>
+  <a href=“https://github.com/adnanmushtaq1996”>
+    <img src=“https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white” />        
+  </a>&nbsp;&nbsp;
+    <a href=“https://www.linkedin.com/in/adnan-karol-aa1666179/”>
+    <img src=“https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white” />
+  </a>&nbsp;&nbsp;
+    <a href=“https://medium.com/@adnanmushtaq5”>
+    <img src=“https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white” />        
+  </a>&nbsp;&nbsp;
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnankarol&show_icons=true&locale=en&layout=compact" alt="adnankarol" /></p>
+## :computer: Preferred Operating Systems
+<p >
+  <img src=“https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white” />
+  <img src=“https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white” />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnankarol&show_icons=true&locale=en" alt="adnankarol" /></p>
+</p>
+
+### 🖍  My Workspace Specifications
+<p >
+  <img src=“https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white” />
+  <img src=“https://img.shields.io/badge/Intel-Core_i5--8th-0071C5?style=for-the-badge&logo=intel&logoColor=white” />
+  <img src=“https://img.shields.io/badge/nvidia-GeForce_MX110-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white” />
+  <img src=“https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white” />
+  
+
+</p>
+
+
+
+## About Me  
+I am looking for new opportunities in the domain of Machine Learning, Deep Learning, and IoT in order to expand my skillset and gain more experience in life.
+
+- :smile: I love to perform EDA of data and get value from data, using modern ML, DL techniques.
+- :telescope: I have recently worked on using Deep Learning to analyse Neuro-Physiology Signals such as EEG, ECG, etc.
+- :zap: Fun fact: I have started writing some technical blogs recently which you can find [here](https://adnanmushtaq5.medium.com/).
+- :mailbox: You can reach me [here](https://www.linkedin.com/in/adnan-karol-aa1666179/) with LinkedIn.
+- :seedling: Feel Free to visit my Resume Website, where again you can contact me from [here](http://adnan-karol.mystrikingly.com/).
+
+
+ ## :computer: Langauges & Tools I love Coding In !
+<p align=‘center’>
+
+  <img src=“https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white” />
+  <img src=“https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white” />
+  <img src=“https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white” />
+  <img src=“https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white” />
+  <img src=“https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white” />
+  <img src=“https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white” />
+  <img src=“https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white” />
+    <img src=“https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white” />
+  <img src=“https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white” />
+      <img src=“https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white” />
+  <img src=“https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white” />
+  <img src=“https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white” /> 
+        <img src=“https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white” />
+    <img src=“https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white” />
+        <img src=“https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=whitee” />
+  <img src=“https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white” />
+  <img src=“https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=red” />
+   <img src=“https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white” />
+  <img src=“https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white” />
+
+
+</p>
+
+Feel Free to contact me for any Colloborations :dancers: or any other doubts :speech_balloon:.
+
+<!--
+**adnanmushtaq1996/adnanmushtaq1996** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- :telescope: I’m currently working on ...
+- :seedling: I’m currently learning ...
+- :dancers: I’m looking to collaborate on ...
+- :thinking_face: I’m looking for help with ...
+- :speech_balloon: Ask me about ...
+- :mailbox: How to reach me: ...
+- :smile: Pronouns: ...
+- :zap: Fun fact: ...
+-->
