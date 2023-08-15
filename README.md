@@ -5,7 +5,7 @@ My Name is Adnan, and I am working as a Full-Stack Data Scientist. I have comple
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adnan-karol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-karol" height="30" width="40" /></a>
-<a href="https://medium.com/@adnankarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adnankarol" height="30" width="40" /></a>
+<a href="https://medium.com/@adnanmushtaq5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adnankarol" height="30" width="40" /></a>
 </p>
 
 
