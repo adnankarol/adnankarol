@@ -16,7 +16,7 @@
 I hold a Master's degree in Information Technology from the University of Stuttgart. Currently, I work as a Full-Stack Data Scientist in Germany, always on the lookout for new opportunities to expand my skillset and gain more experience in life.
 
 - :smile: I love performing Exploratory Data Analysis (EDA) and extracting valuable insights from data using modern ML and DL techniques.
-- :telescope: I am working to reduce water damage wastage by incorporating smart devices at customer houses that detect leaks and overflow of water, thus contributing to environmental conservation.
+- :telescope: I am developing algorithms to enhance smart devices that detect water leaks and overflow, helping reduce water damage and contribute to environmental conservation.
 - :zap: Fun fact: I have started writing technical blogs, which you can find [here](https://adnanmushtaq5.medium.com/).
 - :mailbox: You can reach me via [LinkedIn](https://www.linkedin.com/in/adnan-karol-aa1666179/).
 - :seedling: Feel free to visit my [Resume Website](http://adnan-karol.mystrikingly.com/).
