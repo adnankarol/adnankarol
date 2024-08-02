@@ -53,8 +53,8 @@ I hold a Master's degree in Information Technology from the University of Stuttg
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnankarol&show_icons=true&locale=en&layout=compact" alt="adnankarol" />
 </p>
 
-## Status
+## Current Status
 
-- :chart_with_upwards_trend: Currently aiming to become an AWS Certified Machine Learning Engineer.
+:chart_with_upwards_trend: Currently aiming to become an AWS Certified Machine Learning Engineer.
 
 Feel free to contact me for any collaborations 🤝 or if you have any questions 💬.
