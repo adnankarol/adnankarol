@@ -13,10 +13,10 @@
 
 ## About Me
 
-I hold a Master's degree in Information Technology from the University of Stuttgart. Currently, I work as a Full-Stack Data Scientist, always on the lookout for new opportunities to expand my skillset and gain more experience in life.
+I hold a Master's degree in Information Technology from the University of Stuttgart. Currently, I work as a Full-Stack Data Scientist in Germany, always on the lookout for new opportunities to expand my skillset and gain more experience in life.
 
 - :smile: I love performing Exploratory Data Analysis (EDA) and extracting valuable insights from data using modern ML and DL techniques.
-- :telescope: Recently, I have been working on using Deep Learning to analyze Neuro-Physiology Signals such as EEG, ECG, etc.
+- :telescope: I am working to reduce water damage wastage by incorporating smart devices at customer houses that detect leaks and overflow of water, thus contributing to environmental conservation.
 - :zap: Fun fact: I have started writing technical blogs, which you can find [here](https://adnanmushtaq5.medium.com/).
 - :mailbox: You can reach me via [LinkedIn](https://www.linkedin.com/in/adnan-karol-aa1666179/).
 - :seedling: Feel free to visit my [Resume Website](http://adnan-karol.mystrikingly.com/).
@@ -31,6 +31,7 @@ I hold a Master's degree in Information Technology from the University of Stuttg
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://mlflow.org/docs/latest/_static/mlflow-logo-final.png" alt="mlflow" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
@@ -45,7 +46,6 @@ I hold a Master's degree in Information Technology from the University of Stuttg
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 </p>
 
 ## Most Frequently Used Tools
@@ -54,4 +54,8 @@ I hold a Master's degree in Information Technology from the University of Stuttg
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnankarol&show_icons=true&locale=en&layout=compact" alt="adnankarol" />
 </p>
 
-Feel free to contact me for any collaborations :dancers: or any other inquiries :speech_balloon:.
+## Status
+
+- :chart_with_upwards_trend: Currently aiming to become an AWS Certified Machine Learning Engineer.
+
+Feel free to contact me for any collaborations 🤝 or if you have any questions 💬.
