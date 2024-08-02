@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adnan-karol" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan-karol" /></a>
-  <a href="https://medium.com/@adnanmushtaq5" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@adnankarol" /></a>
+  <a href="https://de.linkedin.com/in/adnan-karol-aa1666179" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="adnan-karol" /></a>
+  <a href="https://adnankarol.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@adnankarol" /></a>
   <a href="http://adnan-karol.mystrikingly.com/" target="blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="adnan-karol" /></a>
 </p>
 
