@@ -17,8 +17,6 @@
   </a>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 🎓 I'm a professional Full-Stack Data Scientist based in Germany, with a Master's degree in Information Technology from the University of Stuttgart.
@@ -33,7 +31,6 @@
 
 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adnan-karol-aa1666179/) or visit my [portfolio site](http://adnan-karol.mystrikingly.com/) for more.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +54,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -65,10 +61,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adnankarol&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
----
 
 ## 🤝 Let’s Collaborate
 
 I'm always happy to connect with fellow data enthusiasts, developers, or anyone interested in tech. Don’t hesitate to reach out for collaborations, projects, or just a chat!
 
----
