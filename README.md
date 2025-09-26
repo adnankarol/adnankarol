@@ -29,7 +29,7 @@
 
 🌱 Always open to learning, collaboration, and exciting opportunities in data science and beyond.
 
-📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adnan-karol-aa1666179/) or visit my [portfolio site](http://adnan-karol.mystrikingly.com/) for more.
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/adnan-karol-aa1666179/) or visit my [portfolio site](https://karoladnan.lovable.app) for more.
 
 
 ## 🛠️ Tech Stack
